@@ -4,13 +4,13 @@
 
 # Hello, I'm Mohamed ! 👋
 
-I'm a Back-End Web Dev, Cyber-Security . based in Egypt. I'm passionate about Bug-bounty and enjoy.
+I'm a Back-End Dev. based in Egypt. I'm passionate about Bug-bounty and enjoy.
 
 
 
 ## 💻 Technical Skills
 
-- Programming languages: C# , C++ , Dart , PHP
+- Programming languages: C# , C++ , html , css , javascript , PHP
 - Frameworks and libraries: Laravel
 - Databases: MySQL 
 
