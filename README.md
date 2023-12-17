@@ -32,5 +32,5 @@ I'm a Back-End Dev. based in Egypt. I'm passionate about Bug-bounty and enjoy.
 
 ## 📫 How to Reach Me
 
-- Email: mansbih50@gmail.com
+- Email: mansobih200@outlook.com
 
